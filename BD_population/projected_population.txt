@@ -16,10 +16,15 @@ K = carrying capacity (maximum sustainable population)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Data fitting to the model shows 
+***********************
+Estimated r: 0.0418 per year 
 
-Estimated r: 0.0418 per year
-Estimated K: 208.47 million
+(That means, population growth is 4.18% annually) 
+***********************
+Estimated K: 208.47 million 
 
+(That means, in the long run, BD population will stabilse near 208.47 million) 
+***********************
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Year    Projection from the Logistic Model
 2024	172493392.449553

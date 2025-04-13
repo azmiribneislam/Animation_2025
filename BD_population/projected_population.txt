@@ -28,6 +28,9 @@ Estimated K: 211.21 million
 
 (That means, in the long run, BD population will stabilse near 211.21 million ) 
 ***********************
+
+Assumption: If current flow continues and no external force hampers the ongoing situation
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Year    Projection from the Logistic Model
 2026	175715517.716954

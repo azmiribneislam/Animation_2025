@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Bangladesh population fit using Logistic Model 
+%% Bangladesh-population-fit using Logistic Model 
 %% Solved using ode45 in MATLAB
 %% Data used from 1960 to 2025 
 %% Projection of population up to year 2100

@@ -8,15 +8,17 @@
 %% Data link 1 (World Bank: 1960 to 2023): https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD
 %% Data link 2 (Worldometer: 2024 to 2025): https://www.worldometers.info/world-population/bangladesh-population/
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Model
 
-Logistic growth ODE: dp/dt = r*P*(1 - P/K)
-P(t) = population (or any quantity) at time 𝑡
+%% Model description:
+
+Logistic growth model (ODE): dP/dt = r*P*(1 - P/K)
+where,
+P(t) = population (or any quantity) at time t
 r = intrinsic growth rate (per unit time)
 K = carrying capacity (maximum sustainable population)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Data fitting to the model shows 
+Data-fitting to the model reveals: 
 ***********************
 Estimated r: 0.0413 per year 
 
